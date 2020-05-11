@@ -1,0 +1,15 @@
+.List {
+    list-style-type: none;
+    height:200px; 
+    width:100%;
+    overflow:hidden; 
+    overflow-y:auto;
+    overflow-x: auto;
+    max-width:1000px;
+    word-wrap:break-word;
+    display:inline-block
+}
+
+  .ListItem {
+    list-style-type: none;
+}

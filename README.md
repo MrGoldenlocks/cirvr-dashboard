@@ -18,3 +18,6 @@ npm start
 
 "npm install" will download all of the dependencies needed for the React application,
 the following application "npm start" will start the application through on a local server and run it in the browser (default at localhost:3000)
+
+Screenshot of progress at end of internship:
+![Example Screenshot](/dashboardProgress4-30.PNG)
